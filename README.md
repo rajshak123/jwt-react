@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://smartloan.trustingsocial.com"><img src="./src/assets/images/logo-foot.png" alt="dj-web-handler-ui" width="100"></a>
+  <a href="https://www.google.com"><img src="./src/components/Header/logo/subway-logo-sign-arrows.gif" alt="JWT authentication And Route Protection" width="100"></a>
   <br>
   JWT authentication and Route protection example
   <br>
