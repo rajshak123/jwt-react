@@ -1,5 +1,5 @@
 import React, { Component , Fragment} from 'react';
-import logoo from './High/new_logo_full_high.png';
+import logoo from './subway-logo-sign-arrows.gif';
 import styles from './logo.css';
 export default class logo extends Component {
   render() {
